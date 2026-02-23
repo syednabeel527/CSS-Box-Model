@@ -8,3 +8,10 @@ A focused practice repository to understand and implement the CSS Box Model with
 3.Border
 4.Marginn
 5.Padding
+
+
+
+Output 
+
+## Border
+![index.html with style2.css ](images/border.png)
