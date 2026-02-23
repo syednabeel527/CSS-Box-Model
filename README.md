@@ -15,3 +15,6 @@ Output
 
 ## Border
 ![index.html with style2.css ](images/border.png)
+
+## Border-radius
+![Implementing border radius](images/border-radius.png)
