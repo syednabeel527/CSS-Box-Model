@@ -9,3 +9,14 @@ div{
 div {
     border: 5px solid lightblue;
 }
+
+h1{
+    border: 5px dotted goldenrod;
+}
+
+button {
+    border-left: solid blue;
+    border-right: double black;
+    border-top: dotted pink;
+    border-bottom: outset purple;
+}
